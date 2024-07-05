@@ -33,7 +33,7 @@ class SecondFragment : Fragment() {
                         }
                     ) { paddingValues ->
                         Column(modifier = Modifier.padding(paddingValues)) {
-                            Text(text = "Second Fragment")
+                            Text(text = "SecondFragment")
                         }
                     }
                 }
